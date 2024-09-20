@@ -3,8 +3,7 @@ When planning A/B tests, uncertainty about the time required and amount of data 
 
 This in-house app aims to help stakeholders understand the data requirements and provide time estimates based on company-specific data for their A/B tests while standardizing the setup and methodology across the organization. It offers both standard fixed sample sizes and sequential sample sizes. Additionally, the app provides a straightforward way to evaluate sequential A/B tests, making it accessible to everyone.
 
-
-Sequential A/B testing is typically better for situations where lower conversion rates occur and would require a significant (in either time or money) cost to run a sufficient fixed test. 
+This app is implemented in Python with streamlit providing the interface. 
 
 ## App Images
 For fixed A/B test sample size:
