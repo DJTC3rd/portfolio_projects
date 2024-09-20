@@ -7,10 +7,11 @@ This in-house app aims to help stakeholders understand the data requirements and
 Sequential A/B testing is typically better for situations where lower conversion rates occur and would require a significant (in either time or money) cost to run a sufficient fixed test. 
 
 ## App Images
+For fixed A/B test sample size:
+![](./Fixed_ab_test.JPG)
 
-[](./Fixed_ab_test.JPG)
-
-[](./Sequential_ab_test.JPG)
+For sequential A/B test sample size:
+![](./Sequential_ab_test.JPG)
 
 ## Notes
 
